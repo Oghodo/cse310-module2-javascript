@@ -1,32 +1,28 @@
 # Overview
+As a software engineer, I created this project to deepen my understanding of JavaScript and strengthen my ability to write clean, structured, and maintainable code. The goal of this software was to practice core JavaScript concepts while using modern language features and external libraries commonly found in real-world applications.
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This software is a Node.js application that processes numerical data and displays results directly in the terminal. It demonstrates the use of ES6 native array functions, recursion, exception handling, and third-party libraries. The program outputs clear, formatted results and includes error handling to ensure the application runs safely and predictably.
 
-{Provide a description of the software that you wrote to demonstrate the JavaScript language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+The purpose of writing this software was to improve my proficiency in JavaScript syntax, learn how functional programming concepts work in practice, and gain experience using npm packages within a JavaScript project. This project also helped me become more comfortable structuring a complete software project and publishing it to GitHub.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+This software was developed using Visual Studio Code as the primary code editor and Node.js as the runtime environment. Version control was handled using Git, and the completed project was published to GitHub as a public repository.
 
-{Describe the programming language that you used and any libraries.}
-
+The programming language used in this project is JavaScript (ES6). External libraries were installed using npm, including Lodash for advanced array utilities and Chalk for styling and coloring console output. These libraries helped simplify data manipulation and improve the readability of terminal output.
 # Useful Websites
+The following websites were helpful while developing this project:
 
-{Make a list of websites that you found helpful in this project}
+- [Node.js v25.5.0 documentation]  (https://nodejs.org/en/docs)
+- [JavaScript Guide] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+In the future, I would like to improve and expand this software by:
 
-- Item 1
-- Item 2
-- Item 3
+- Adding user input through the command line instead of using hard-coded data
+- Enhancing error handling and validation for additional edge cases
+- Expanding the program to process data from files or external sources
