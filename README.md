@@ -5,7 +5,7 @@ This software is a Node.js application that processes numerical data and display
 
 The purpose of writing this software was to improve my proficiency in JavaScript syntax, learn how functional programming concepts work in practice, and gain experience using npm packages within a JavaScript project. This project also helped me become more comfortable structuring a complete software project and publishing it to GitHub.
 
-[Software Demo Video]([https://www.loom.com/share/fa54ce3232d34a77bcbe5d91b28b8efe]
+[Software Demo Video]([https://www.loom.com/share/fa54ce3232d34a77bcbe5d91b28b8efe])
 
 # Development Environment
 
